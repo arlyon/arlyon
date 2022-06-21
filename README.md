@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Alex, I am London-based, and currently making healthcare products cheaper and more accessible @ [MDisrupt](https://github.com/mdisrupt). In addition to that, I am also a member of the stripe expert community and hack on [arlyon/async-stripe](https://github.com/arlyon/async-stripe). If you're in London (or ATX) and want to chat about open source, programming, or healthcare, get in touch!
+My name is Alex, I am a London-based, open source enthusiast. In the past I have worked in build engineering, healthtech, and most recently consulting. In addition to that, I am also a member of the stripe expert community and hack on [arlyon/async-stripe](https://github.com/arlyon/async-stripe). If you're in London (or ATX) and want to chat about open source, programming, or healthcare, get in touch!
 
 <br/>
 <br/>
